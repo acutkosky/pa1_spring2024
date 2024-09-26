@@ -1,4 +1,5 @@
 # Programming  Assignment 1: Automatic Differentation
+Due: **11:59PM October 9th, 2024**
 
 Note: this assignment is complicated! Do not start it at the last minute! You may
 want to read over the code to get an understanding of what you should be doing
@@ -7,7 +8,7 @@ before diving in!
 ## Submission
 
 Please submit your assignment by emailing a zip or tar file containing all source code to
-optmlclass.spring.YYYY+PA1@gmail.com. Make sure to incude your name and PA1 in the subject line.
+opt4mlclass+spring2024@gmail.com. Make sure to incude your name and PA1 in the subject line.
 
 ## Instructions
 
